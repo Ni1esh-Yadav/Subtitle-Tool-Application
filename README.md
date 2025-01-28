@@ -49,4 +49,8 @@ A web app for where user can embed subtitles in video they can validate their su
 - npm or yarn
 - FFmpeg (for video export functionality)
 
+### Reference::
+
+![subtitle](https://github.com/user-attachments/assets/b6435c7c-3082-4041-9bbe-b224a997e7b5)
+
 
